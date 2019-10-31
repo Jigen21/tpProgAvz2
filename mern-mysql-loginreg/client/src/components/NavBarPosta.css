@@ -1,0 +1,11 @@
+a {
+    color:white;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif
+}
+a:hover {
+     color: #000
+}

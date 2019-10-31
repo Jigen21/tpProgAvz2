@@ -1,0 +1,42 @@
+.w-100
+{
+  width: 100px; 
+  height: 300px;
+}
+.item img {
+  width: 100%;
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+  text-indent: 0;
+  cursor: pointer;
+  border: none;
+  border-radius: 50%;
+  background-color: #0000ff;
+  box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);    
+}
+.carousel-indicators .active {
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+  background-color: #9b9b1b;
+}
+
+.carousel {
+  border-radius: 55px 55px 55px 55px;
+  overflow: hidden;
+  border: black solid 3px !important;
+}
+
+
+.carousel-control-next-icon {
+  background-color: black;
+}
+
+.carousel-control-prev-icon {
+  background-color:black;
+}
